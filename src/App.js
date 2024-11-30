@@ -66,7 +66,7 @@ class App extends Component{
           <Form>
           <Form.Group>
               <Form.Label>Silahkan Login</Form.Label>
-              <Form.Control type="email" placeholder="Masukkan Email" />
+              <Form.Control type="email" placeholder="Masukkan Email Anda" />
             <br />
               <Form.Control type="password" placeholder="Masukkan Password" />
             <br />
